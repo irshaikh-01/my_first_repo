@@ -1,1 +1,2 @@
-Thsi file was created on gtihub.com and pulle dinto local repo
+Thsi file was created on gtihub.com and pulle dinto local repo.
+Some changes done to Github_file.txt.
