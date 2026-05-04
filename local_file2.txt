@@ -1,1 +1,2 @@
-This is the second file created and updated on local repo and pushed to github
+This is the second file created and updated on local repo and pushed to github.
+Some changes done to local_file2.txt.

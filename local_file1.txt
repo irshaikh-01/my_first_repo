@@ -1,2 +1,2 @@
 This is the first file created and updated on local repo and pushed to github.
-Some changes done to local_file1.txt
+Some changes done to local_file1.txt.
